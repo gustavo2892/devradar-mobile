@@ -1,0 +1,6 @@
+/.eslintrc.js
+/android
+/ios
+/node_modules
+/__tests__
+/.prettierrc
